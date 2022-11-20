@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>E:\VS2022项目集\备忘录\MyToDo.Api\bin\Release\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2022-11-14T10:06:44.2975272Z;False|2022-11-14T18:06:09.0563459+08:00;True|2022-11-14T18:03:09.9732805+08:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="ToDoConnection">
+      <Value>Data Source = todo.db</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
