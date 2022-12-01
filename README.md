@@ -2,3 +2,4 @@
 B/S架构 
 客户端: WPF + Prism + RestSharp
 服务器端: ASP.NET + WebApi + EF Core + Unit Of Work + Sqlite + AutoMapper
+![avatar](http://baidu.com/pic/doge.png)
